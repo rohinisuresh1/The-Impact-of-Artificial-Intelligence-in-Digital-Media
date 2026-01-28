@@ -12,5 +12,6 @@ The Impact of Artificial Intelligence in Digital Media presents a comprehensive 
 
 
 
-# The-Impact-of-Artificial-Intelligence-in-Digital-Media <img width="1404" height="792" alt="image" src="https://github.com/user-attachments/assets/a5b82c23-f721-45db-8577-c162e7cfd43c" />
+# The-Impact-of-Artificial-Intelligence-in-Digital-Media      
+<img width="1404" height="792" alt="image" src="https://github.com/user-attachments/assets/a5b82c23-f721-45db-8577-c162e7cfd43c" />
 
